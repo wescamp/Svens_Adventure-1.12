@@ -1,0 +1,29 @@
+border_size=1
+usage=map
+
+Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Hhd, Hhd, Hhd^Fmf, Hhd^Fmf, Hhd^Fmf
+Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Hhd, Hhd, Hhd^Fmf, Hhd^Fmf, Rb^Gvs
+Hhd^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb^Dr, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Gd^Vhr, Rb^Gvs, Rb^Gvs
+Hhd^Fmf, Hhd^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb^Dr, Rb, Rb, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Hhd^Fmf, Hhd^Fmf, Hhd^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Hhd^Fmf, Gll^Fmf, Gll^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Urb, Hhd^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Ecf, Rb^Ecf, Rb^Ecf, 2 Rb, Rb^Ecf, Rb^Ecf, Rb^Ecf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Urb, 1 Urb, Urb, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Ww, Ww, Ww, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Ecf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Rb^Eff, Urb, Urb, Urb, Urb, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Rb^Gvs, Ww, Wo, Wo, Ww, Ww, Gll^Fmf, Ww, Ww, Ww, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Ww, Ww
+Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Urb, Urb, Gll^Fmf, Ww, Ww, Ww, Ww, Ww, Ww, Ww, Ww, Gll^Fmf, Ww, Gll^Fmf, Ww, Ww, Gll^Fmf, Ww, Ww, Rb^Gvs, Rb^Gvs
+Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Urb, Ww^Bsb\, Ww, Rb^Eff, Gll^Fmf, Rb^Gvs, Gll^Fmf, Rb^Gvs, Gll^Fmf, Rb^Gvs, Rb^Gvs, Rb^Gvs, Ww, Rb^Gvs, Ww, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Hhd^Fmf, Rb^Eff, Ww, Ww^Bsb\, Urb, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Rb^Gvs, Rb^Gvs, Ww, Ww, Ww, Ww, Ww, Gg^Efm, Gs^Vh, Urb, Urb, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Rb^Gvs, Ww, Ww, Ww, Rb^Gvs, Ww, Rb^Gvs, Gg, Rb^Eff, Gg^Fet, Gg, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Ww, Ww, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff
+Gg, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Gll^Fmf, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Re, Re
+Gg, Gg, Gg, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Re, Re, Rb^Eff, Rb^Eff
+Urb, Gg, Gg, Gg, Gg, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Eff, Rb^Eff, Urb, Urb, Urb, Gll^Fmf, Gg, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Eff, Rb^Eff, Re, Re, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs
+Gg, Urb, Urb, Gg, Gg, Gg, Gg, Rb^Eff, Urb, Urb, Hhd^Fmf, Urb, Urb, Gg, Gg^Efm, Gs^Vh, Gg, Rb^Eff, Re, Re, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Gg, Gs^Vh, Gg, Urb, Urb, Gg, Urb, Urb, Gs^Vh, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Gg, Re, Re, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Gg, Gg, Gg, Gg, Urb, Urb, Urb, Gg^Efm, Gg, Gg, Gg, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Gg, Gg, Urb, Urb, Ce, Ce, Ce, Urb, Urb, Gg, Gg, Gg, Gg, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs, Gg^Fet, Rb^Gvs, Rb^Gvs, Rb^Gvs
+Urb, Urb, Gg, Gg, Ce, 3 Ke, Ce, Gg, Gs^Vh, Urb, Urb, Gg, Gg, Gg, Gg, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Rb^Eff, Gg^Efm, Gs^Vh, Gll^Fmf, Rb^Gvs
+Gg, Gg, Gg, Gg, Gg, Ce, Gg, Gg, Gg, Gg, Gg, Urb, Urb, Gg, Gg, Gg, Gg, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Rb^Eff, Rb^Eff, Rb^Gvs
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Vh, Gg, Urb, Urb, Gg, Gg, Gg, Gg, Gg^Eff, Gg^Eff, Urb, Urb, Urb, Urb, Rb^Eff
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Urb, Gg, Gg, Gg, Gg, Gg, Gg^Eff, Gg, Urb, Urb, Urb
